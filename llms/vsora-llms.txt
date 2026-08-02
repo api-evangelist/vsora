@@ -1,0 +1,23 @@
+# VSORA
+
+> VSORA is a French fabless semiconductor company (Meudon-La-Foret, France) that designs high-performance AI inference chips. Its Jotunn 8 data-center inference chip (3200 Tflops fp8, 288 GB HBM, TSMC 5nm) targets cost- and energy-efficient large-scale AI inference, and its Tyr family (Tyr 2, Tyr 4) targets edge AI / on-device processing. VSORA is a hardware company and publishes no public web API, developer portal, SDK registry packages, or machine-readable API specifications as of 2026-07-21.
+
+## Company
+
+- [VSORA website](https://vsora.com/): Company homepage
+- [The Company](https://vsora.com/the-company/): About VSORA, offices in France, Taiwan, Japan, Korea, and the USA
+- [News](https://vsora.com/news/): Company news and announcements
+
+## Products
+
+- [Jotunn 8](https://vsora.com/products/jotunn-8/): Data-center AI inference chip
+- [Tyr](https://vsora.com/products/tyr/): Edge AI chip family
+
+## Legal
+
+- [Terms of Use](https://vsora.com/terms-of-use/)
+- [Privacy Policy](https://vsora.com/privacy-policy/)
+
+## Optional
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/vsora/refs/heads/main/apis.yml): API Evangelist network profile for VSORA (no APIs listed)

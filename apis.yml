@@ -1,7 +1,23 @@
 aid: vsora
-name: Vsora
-description: 'Vsora is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: AI/ML. This profile is a lead awaiting the enrichment pipeline.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vsora.png
+name: VSORA
+description: 'VSORA is a French fabless semiconductor company headquartered in Meudon-La-Foret,
+  France, that designs high-performance AI inference chips. Its Jotunn 8 data-center
+  inference chip (3200 Tflops fp8, 288 GB HBM, built on TSMC 5nm) targets cost- and
+  energy-efficient large-scale AI inference, and its Tyr family (Tyr 2, Tyr 4) targets
+  edge AI and on-device processing. VSORA is a Partech portfolio company and publishes
+  no public web API or developer portal as of July 2026.'
 url: https://raw.githubusercontent.com/api-evangelist/vsora/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +27,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ai/Ml
+- Semiconductors
+- AI Inference
+- Edge AI
+- Hardware
+- Data Centers
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +44,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.vsora.com/
+  url: https://vsora.com/
+- type: Blog
+  url: https://vsora.com/news/
+- type: TermsOfService
+  url: https://vsora.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://vsora.com/privacy-policy/
+- type: DomainSecurity
+  url: security/vsora-domain-security.yml
+- type: LLMsTxt
+  url: llms/vsora-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
