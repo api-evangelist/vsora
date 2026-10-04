@@ -43,10 +43,10 @@ tags:
 - Company
 - Ai Ml
 - Semiconductors
-- AI Inference
+- Inference
 - Edge AI
 - Hardware
-- Data-Center
+- Data Center
 tags_raw:
 - Company
 - Ai/Ml
@@ -55,6 +55,7 @@ tags_raw:
 - Edge AI
 - Hardware
 - Data Centers
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
